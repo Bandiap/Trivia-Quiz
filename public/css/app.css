@@ -49,7 +49,7 @@ h4 {
 
 .container {
   width: 100vw;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -120,7 +120,7 @@ form {
 
 input , select {
   margin-bottom: 1rem;
-  width: 30rem;
+  width: 20rem;
   padding: 1.5rem;
   font-size: 1.4rem;
   border: none;
